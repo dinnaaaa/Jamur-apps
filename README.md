@@ -1,5 +1,5 @@
 # 🍄 Mushroom Edible vs Poisonous Classification  
-## Attention-Guided Pruning & Quantization on :contentReference[oaicite:0]{index=0}
+## Attention-Guided Pruning & Quantization 
 
 Repository ini berisi proses pengembangan dan eksperimen model deep learning untuk klasifikasi citra jamur **edible** dan **poisonous** menggunakan arsitektur MobileNetV3.
 
