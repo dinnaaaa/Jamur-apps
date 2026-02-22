@@ -123,7 +123,7 @@ Seluruh proses eksperimen dan analisis tersedia dalam bentuk notebook (.ipynb) s
 Model `.tflite` hasil penelitian ini digunakan pada aplikasi mobile berbasis Flutter.
 
 🔗 **Repository Aplikasi Flutter:**  
-https://github.com/dinnaaaa/Jamur-apps.git
+https://github.com/dinnaaaa/Jamur-Project.git
 
 Aplikasi tersebut memungkinkan:
 
